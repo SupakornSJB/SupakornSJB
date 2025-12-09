@@ -1,7 +1,7 @@
-# 👨‍💻 Supakorn Senlamai
+## Hi there 👋
 
-Full-stack developer focusing on .NET backend and React/Angular Typescript frontend.
-Have some game development experience with Unity during college days.
+**I'm Supakorn Senlamai**, I'm a full-stack developer focusing on .NET backend and React/Angular Typescript frontend. <br/>
+I have some game development experience with Unity during college days.
 
 ### 🔧 Tech Stack (Web development)
 **Backend:** C#, ASP.NET Core, gRPC, EF Core  
