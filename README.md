@@ -13,13 +13,9 @@ I have some game development experience with Unity during college days.
 **Unity:** Unity3D, Netcode, Unity Cloud
 
 ### 🚀 Current Focus
-- Architecting services with gRPC and async streaming  
-- Learning Rust for game and backend development
-
-### 📚 Learning
-- Cloud infra (AWS)  
-- Rust & Axum for fun and performance
-- Rust & Bevy as hobby game development
+- Speed optimization for web application (Mainly for ASP.NET and Angular)
+- Cloud infrastructure and configuration (AWS, Azure)
+- Learning Rust for game and backend development (Bevy, Axum)
 
 ### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/supakorn-senlamai/)
