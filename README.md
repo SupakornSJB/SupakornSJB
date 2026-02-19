@@ -7,10 +7,10 @@ I have some game development experience with Unity during college days.
 **Backend:** C#, ASP.NET Core, gRPC, EF Core  
 **Frontend:** Angular, React, TypeScript  
 **Database:** PostgreSQL, SQL Server, MongoDB  
-**DevOps:** Docker, Linux
+**DevOps:** Azure, AWS, Docker, Linux
 
 ### 🎮 Tech Stack (Game development)
-**Unity:** Unity3D, Netcode, Unity Cloud
+**Unity:** Unity3D, Netcode for GO, Unity Cloud
 
 ### 🚀 Current Focus
 - Speed optimization for web application (Mainly for ASP.NET and Angular)
